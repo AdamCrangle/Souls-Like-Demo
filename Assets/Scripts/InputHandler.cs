@@ -19,7 +19,7 @@ namespace CosmicJester
         Vector2 movementInput;
         Vector2 cameraInput;
 
-        private void Awake()
+        private void Start()
         {
             cameraHandler = CameraHandler.singleton;
         }
