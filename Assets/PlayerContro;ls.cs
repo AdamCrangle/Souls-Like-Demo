@@ -105,7 +105,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""name"": ""Camera"",
                     ""type"": ""PassThrough"",
                     ""id"": ""dec0ac4a-fee9-4282-b23e-77aa744acc14"",
-                    ""expectedControlType"": """",
+                    ""expectedControlType"": ""Vector2"",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false

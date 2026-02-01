@@ -22,6 +22,7 @@ namespace CosmicJester
         private void Start()
         {
             cameraHandler = CameraHandler.singleton;
+            Cursor.visible = false;
         }
 
         private void FixedUpdate()
